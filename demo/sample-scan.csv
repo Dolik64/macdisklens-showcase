@@ -1,0 +1,8 @@
+path,size_bytes,size_human,incomplete,direct_issue_count
+"/DemoVolume",32212254720,"30.0 GiB",true,0
+"/DemoVolume/Documents",10737418240,"10.0 GiB",false,0
+"/DemoVolume/Media",21474836480,"20.0 GiB",false,0
+"/DemoVolume/Protected",0,"0 B",true,1
+
+permission_or_scan_issues
+"Permission denied: /DemoVolume/Protected (synthetic example)"

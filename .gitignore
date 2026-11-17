@@ -1,0 +1,9 @@
+# Only reviewed presentation files belong in this repository.
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pem
+*.key
+.local/
+node_modules/
